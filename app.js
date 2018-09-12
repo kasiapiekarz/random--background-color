@@ -9,6 +9,6 @@ document.addEventListener("DOMContentLoaded", function () {
         console.log("background color:" + bg);
         bodyBg.style = bg;
     }
-    setInterval(randomColor, 5000);
+    setInterval(randomColor, 3000);
   
 });
